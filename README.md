@@ -1,7 +1,7 @@
 # Hi there, I'm Sanjev👋
 
 🎓 **Data Engineering Student** at Universiti Teknologi Malaysia (UTM)  
-💻 Passionate about building robust data pipelines, data architecture, and real-world problems.
+💻 Passionate about building data pipelines, data architecture and real-world problems.
 
 <!--
 **sanjev21/sanjev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
